@@ -1,0 +1,23 @@
+{
+  "name": "botskarofc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "mapbox": "^1.0.0-beta10",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.1",
+    "node-pre-gyp": "^0.17.0",
+    "parse-ms": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
